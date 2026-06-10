@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="errors_gmail">
+    <title>Gmail errors</title>
+    <shortdesc>This topic references the errors you can encounter while creating a Gmail account.</shortdesc>
+    <refbody>
+        <section>
+            <title>The username I want is taken</title>
+            <p>You can’t create a Gmail address if the username you requested is:
+                <ul><li>Already being used.</li>
+                <li>Very similar to an existing username. For example, if example@gmail.com already exists, you can't use examp1e@gmail.com.</li>
+                <li>The same as a username that someone used in the past and then deleted.</li>
+                <li>Reserved by Google to prevent spam or abuse.</li></ul></p>
+            <p><b>Solution:</b> You must choose another username.</p>
+        </section>
+        
+        <section>
+            <title>Someone is impersonating me</title>
+            <p>If you believe someone has created a Gmail address to try to impersonate your identity, you can:
+                <ul><li>File a report with the Internet Crime Complaint Center.</li>
+                    <li>Contact your state's Office of Consumer Protection.</li></ul></p>
+            <p>Unfortunately, Gmail is unable to participate in mediations involving third parties regarding impersonation. Learn more about Gmail Terms of Use.</p>
+        </section>
+    </refbody>
+</reference>

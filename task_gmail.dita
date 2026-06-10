@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gmail">
+    <title>How to create a Gmail account?</title>
+    <shortdesc>This procedure will help you create a Gmail account.</shortdesc>
+    <taskbody>
+     <prereq><ul>
+             <li>Internet connection</li>
+             <li>Create a Google Account</li>
+     </ul></prereq>
+        
+        <steps>
+            <step><cmd>From your device, go to the Google Account sign in page.</cmd></step>
+            <step><cmd>Click Create account.</cmd></step>
+            <step><cmd>In the drop down, select if the account is for your: personal use, child, work or business</cmd></step>
+            <step><cmd>To set up your account, follow the steps on the screen.</cmd></step>
+            <step><cmd>Create an account</cmd></step>
+        </steps>
+    </taskbody>
+</task>
