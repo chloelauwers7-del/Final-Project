@@ -14,7 +14,13 @@
             <step><cmd>Click Create account.</cmd></step>
             <step><cmd>In the drop down, select if the account is for your: personal use, child, work or business</cmd></step>
             <step><cmd>To set up your account, follow the steps on the screen.</cmd></step>
-            <step><cmd>Create an account</cmd></step>
+            <step><cmd>Create an account</cmd>
+            <info><note id="note_user" type="tip">To use Gmail for your business, a Google
+                    Workspace account might be better for you than a personal Google Account. With
+                    Google Workspace, you get increased storage, professional email addresses, and
+                    additional features. <xref href="https://workspace.google.com/pricing.html"
+                        format="html" scope="external">Learn about Google Workspace pricing and
+                        plans.</xref></note></info></step>
         </steps>
     </taskbody>
 </task>
